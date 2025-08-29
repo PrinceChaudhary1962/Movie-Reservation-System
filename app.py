@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # ⚠️ Replace with your current ngrok public URL from Colab
-API_URL = "https://xxxxxxx.ngrok-free.app"
+API_URL = "https://f889afb23a5b.ngrok-free.app"
 
 st.set_page_config(page_title="🎬 Movie Reservation System", layout="centered")
 st.title("🎬 Movie Reservation System")
